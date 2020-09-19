@@ -11,4 +11,4 @@ bucket = "./packages/client/build"
 entry-point = "./packages/worker"
 
 [env.production]
-name = "script-name"
+name = "dev"
